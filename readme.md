@@ -5,13 +5,13 @@ Em muitas vezes na minha vida eu fui questionado sobre como ser um programador p
 
 During my life, I've been asked about being a programmer by people around me. This project has a goal of leaving a good way for anyone to start studing and get a job with programming in Brazil. That's why this repository is written in Portuguese.
 
-# Inglês
+## Inglês
 
 Algumas das referencias que esse repositório tem são de sites em Inglês, e é muito importante que você comece a se acostumar com essa língua se você jã não está acostumado(a).
 
 O motivo disso é que muito conteúdo sobre programação, bons livros, código e documentação estão em Inglês.
 
-# Hello World
+## Hello World
 
 O programador(a) através de programas diz ao computador o que ele deve fazer.
 
@@ -31,13 +31,13 @@ Agora vamos mais a fundo, você pode começar um curso gratuiro em alguma escola
 
 Caso você queira uma coisa mais completa como um bom curso, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
-# Como conseguir ajuda
+## Como conseguir ajuda
 
 Para conseguir ajuda da comunidade procure pela resposta na nossa lista de issues nesse repositório, caso não você não ache a resposta você pode criar uma issue e a comunidade vai te ajudar.
 
 Bem vindo ao clube de programadores, aqui a gente se ajuda.
 
-# Versionamento
+## Versionamento
 
 Todo software é versionado e você já ouviu falar sobre isso na sua vida. Um bom sistema de versionamento de software para você aprender nesse momento é o GIT.
 
@@ -45,11 +45,11 @@ Essa página está no github que é uma rede social para compartilhar projetos q
 
 Para começar a aprender sobre git, faça o tutorial da página [try.github.com](https://try.github.com).
 
-# Livros
+## Livros
 
 Um livro que eu recomendo para todo programador(a) é [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt.
 
-# Contribuindo
+## Contribuindo
 
 Em breve vou adicionar mais conteúdo nesse repositório para ajudar as pessoas a ter os requisitos para conseguir o primeiro emprego como programador(a), mas sinta-se à vontade para abrir um pull request.
 
