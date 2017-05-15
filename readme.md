@@ -1,5 +1,4 @@
-Como ser um programador
------------------------
+# Como ser um programador
 
 Em muitas vezes na minha vida eu fui questionado sobre como ser um programador por pessoas ao meu redor. Esse projeto tem um objetivo de deixar um caminho bom o suficiente para qualquer pessoa começar a estudar e conseguir um emprego com programação no Brasil.
 
