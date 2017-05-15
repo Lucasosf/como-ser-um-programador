@@ -34,13 +34,13 @@ Caso você queira uma coisa mais completa como um bom curso, veja o programa de 
 
 ## Como conseguir ajuda
 
-Para conseguir ajuda da comunidade procure pela resposta na nossa lista de issues nesse repositório, caso não você não ache a resposta você pode criar uma issue e a comunidade vai te ajudar.
+Para conseguir ajuda da comunidade procure pela resposta na nossa lista de issues nesse repositório, caso você não ache a resposta você pode criar uma issue e a comunidade vai te ajudar.
 
 Bem vindo ao clube de programadores, aqui a gente se ajuda.
 
 ## Versionamento
 
-Todo software é versionado e você já ouviu falar sobre isso na sua vida. Um bom sistema de versionamento de software para você aprender nesse momento é o GIT.
+Todo software é versionado, ou seja, tem versões como 1, 2 e 3.5.1, e um bom sistema de versionamento de software para você aprender nesse momento é o GIT.
 
 Essa página está no github que é uma rede social para compartilhar projetos que usam o git. Esses projetos são chamados de repositórios.
 
