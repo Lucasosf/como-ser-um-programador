@@ -4,7 +4,7 @@ Em muitas vezes na minha vida eu fui questionado sobre como ser um programador p
 
 ### People from outside of Brazil
 
-During my life, I've been asked about being a programmer by people around me. This project has a goal of leaving a good way for anyone to start studing and get a job with programming in Brazil. That's why this repository is written in Portuguese.
+During my life, I've been asked about being a programmer by people around me. This project has a goal of leaving a good way for anyone to start studing and get a job with programming in Brazil. This is why this repository is written in Portuguese and may not be relevant for people from outside of Brazil. Thanks.
 
 ## Inglês
 
