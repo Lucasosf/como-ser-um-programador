@@ -56,6 +56,10 @@ Um livro que eu recomendo para todo programador(a) é [O Programador Pragmático
 2. CSS
 3. JavaScript
 
+## Referências
+ - [howistart.org](http://howistart.org/)
+ - [learnxinyminutes.com](https://learnxinyminutes.com/)
+
 ## Contribuindo
 
 Em breve vou adicionar mais conteúdo nesse repositório para ajudar as pessoas a ter os requisitos para conseguir o primeiro emprego como programador(a), mas sinta-se à vontade para abrir um pull request.
