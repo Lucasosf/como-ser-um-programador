@@ -36,4 +36,4 @@ Legal, você já sabe o que são tags, agora vamos ver o que significa cada uma 
 - `<p>`:
 - `<img>`:
 
-Vou adicionar mais conteúdo aqui, mas se você quiser se adiantar, existem muitos bons cursos no youtube sobre esse assunto, um exemplo é o da [XTI](https://www.youtube.com/watch?v=nIduUA04HFo)
+Vou adicionar mais conteúdo aqui, mas se você quiser se adiantar, existem muitos cursos no youtube sobre esse assunto, um exemplo é o da [XTI](https://www.youtube.com/watch?v=nIduUA04HFo).
