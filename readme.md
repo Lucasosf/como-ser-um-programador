@@ -28,7 +28,7 @@ Você deve ver uma janela com a sua mensagem, no caso `Hello World`, modifique a
 
 Parabéns, você acaba de escrever o seu primeiro programa.
 
-Agora vamos mais a fundo, você pode começar um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
+Agora vamos mais a fundo, você pode começar seguindo os passos desse projeto ou fazendo um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
 
 Caso você queira uma coisa mais completa como um bom curso, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
@@ -50,7 +50,14 @@ Para começar a aprender sobre git, faça o tutorial da página [try.github.com]
 
 Um livro que eu recomendo para todo programador(a) é [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt.
 
+## Índice
+
+1. [HTML](/html)
+2. CSS
+3. JavaScript
+
 ## Contribuindo
 
 Em breve vou adicionar mais conteúdo nesse repositório para ajudar as pessoas a ter os requisitos para conseguir o primeiro emprego como programador(a), mas sinta-se à vontade para abrir um pull request.
+
 
