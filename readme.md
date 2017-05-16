@@ -28,7 +28,7 @@ Você deve ver uma janela com a sua mensagem, no caso `Hello World`, modifique a
 
 Parabéns, você acaba de escrever o seu primeiro programa.
 
-Agora vamos mais a fundo, você pode começar seguindo os passos desse projeto ou fazendo um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
+Agora vamos mais a fundo, você pode começar seguindo os [passos desse projeto](#Índice) ou fazendo um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
 
 Caso você queira uma coisa mais completa como um bom curso, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
