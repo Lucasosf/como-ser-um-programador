@@ -28,12 +28,37 @@ Você pode testar códigos HTML fazendo um arquivo com a extensão `.html` usand
 
 Legal, você já sabe o que são tags, agora vamos ver o que significa cada uma delas.
 
-- `<html>`: É a tag que diz que este é um documento html, ela é obrigatória para toda página html.
-- `<head>`: É o cabeçalho da sua página, dentro dela você declarar valores e outras tags que vão ser usadas pelo navegador, mas não necessariamente vão aparecer no site.
-- `<title>`: É a tag que define o título da página para o navegador. Sabe o título que aparece na aba ou na janela? Essa tag que define ele.
-- `<body>`: É o corpo da sua página, tudo que estiver dentro dessa tag vai aparecer no site.
-- `<h1>`: É uma tag de título, existem outras parecidas que são: `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>`. Tente usá-las e ver a diferença.
-- `<p>`: É uma tag para definir parágrafos.
-- `<img>`: É uma tag para colocar imagens na página, os atributos `src` (source/local do arquivo) e alt (texto alternativo caso a imagem não abra) são obrigatórios.
+### <html>
 
-Vou adicionar mais conteúdo aqui, mas se você quiser se adiantar, existem muitos cursos no youtube sobre esse assunto, um exemplo é o da [XTI](https://www.youtube.com/watch?v=nIduUA04HFo).
+É a tag que diz que este é um documento html, ela é obrigatória para toda página html.
+
+### <head>
+
+É o cabeçalho da sua página, dentro dela você declarar valores e outras tags que vão ser usadas pelo navegador, mas não necessariamente vão aparecer no site.
+
+### <title>
+
+É a tag que define o título da página para o navegador. Sabe o título que aparece na aba ou na janela? Essa tag que define ele.
+
+### <body>
+
+É o corpo da sua página, tudo que estiver dentro dessa tag vai aparecer no site.
+
+### <h1>
+
+É uma tag de título, existem outras parecidas que são: `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>`. Tente usá-las e ver a diferença.
+
+### <p>
+
+É uma tag para definir parágrafos.
+
+### <img>
+
+É uma tag para colocar imagens na página, os atributos `src` (source/local do arquivo) e alt (texto alternativo caso a imagem não abra) são obrigatórios.
+
+Vou adicionar mais conteúdo aqui, mas se você quiser se adiantar, existem muitos cursos e tutoriais na internet sobre esse assunto, por exemplo:
+
+- [XTI](https://www.youtube.com/watch?v=nIduUA04HFo).
+- [iMasters](https://imasters.com.br/secao/front-end/html/)
+
+Obrigado.
