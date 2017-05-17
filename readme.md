@@ -57,8 +57,12 @@ Um livro que eu recomendo para todo programador(a) é [O Programador Pragmático
 3. JavaScript
 
 ## Referências
+
+Existe muito conteúdo bom para aprender some programação na internet e você não precisa necessariamente pagar por isso, por exemplo:
+
  - [howistart.org](http://howistart.org/)
  - [learnxinyminutes.com](https://learnxinyminutes.com/)
+ - [iMasters](https://imasters.com.br)
 
 ## Contribuindo
 
