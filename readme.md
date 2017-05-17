@@ -48,7 +48,10 @@ Para começar a aprender sobre git, faça o tutorial da página [try.github.com]
 
 ## Livros
 
-Um livro que eu recomendo para todo programador(a) é [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt.
+Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodreads.com](https://goodreads.com)
+
+- [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt
+- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) do David Hoover e do Adewale Oshineye
 
 ## Índice
 
