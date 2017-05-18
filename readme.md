@@ -57,7 +57,10 @@ Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodr
 
 1. [HTML](/html)
 2. [CSS](/css)
-3. PHP
+3. [Introdução à Lógica de Programação](intro)
+4. PHP (em breve)
+5. .NET (em breve)
+6. JavaScript (em breve)
 
 ## Referências
 
