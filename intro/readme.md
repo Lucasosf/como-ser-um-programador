@@ -6,10 +6,6 @@ Existe um projeto financiado por diversas empresas como Google, Facebook, Micros
 
 Esses são dois vídeos para compartilhar os projetos do [code.org](https://code.org):
 
-### Code Stars:
-
-[![Code Stars](https://img.youtube.com/vi/dU1xS07N-FA/0.jpg)](https://www.youtube.com/watch?v=dU1xS07N-FA)
-
 ### Hour of Code:
 
 [![Hour of Code](https://img.youtube.com/vi/FC5FbmsH4fw/0.jpg)](https://www.youtube.com/watch?v=FC5FbmsH4fw)

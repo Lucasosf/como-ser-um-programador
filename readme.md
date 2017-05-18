@@ -6,6 +6,12 @@ Em muitas vezes na minha vida eu fui questionado sobre como ser um programador p
 
 During my life, I've been asked about being a programmer by people around me. This project has a goal of leaving a good way for anyone to start studying and get a job with programming in Brazil. This is why this repository is written in Portuguese and may not be relevant for people from outside of Brazil. Thanks.
 
+## Área de desenvolvimento de software
+
+Veja o vídeo abaixo para saber mais o quão aquecido está o mercado para os programadores:
+
+[![Code Stars](https://img.youtube.com/vi/dU1xS07N-FA/0.jpg)](https://www.youtube.com/watch?v=dU1xS07N-FA)
+
 ## Inglês
 
 Algumas das referencias que esse repositório tem são de sites em Inglês, e é muito importante que você comece a se acostumar com essa língua se você jã não está acostumado(a).
