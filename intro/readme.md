@@ -10,7 +10,7 @@ Esses são dois vídeos para compartilhar os projetos do [code.org](https://code
 
 [![Code Stars](https://img.youtube.com/vi/dU1xS07N-FA/0.jpg)](https://www.youtube.com/watch?v=dU1xS07N-FA)
 
-### Code Stars:
+### Hour of Code:
 
 [![Hour of Code](https://img.youtube.com/vi/FC5FbmsH4fw/0.jpg)](https://www.youtube.com/watch?v=FC5FbmsH4fw)
 
