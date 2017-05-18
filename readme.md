@@ -28,9 +28,9 @@ Você deve ver uma janela com a sua mensagem, no caso `Hello World`, modifique a
 
 Parabéns, você acaba de escrever o seu primeiro programa.
 
-Agora vamos mais a fundo, você pode começar seguindo os [passos desse projeto](#Índice) ou fazendo um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
+Agora vamos mais a fundo, você pode começar vendo o [índice](#Índice) desse projeto ou fazendo um curso gratuiro em alguma escola de programação online como [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
 
-Caso você queira uma coisa mais completa como um bom curso, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
+Caso você queira uma coisa mais completa como um curso pago, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
 ## Como conseguir ajuda
 
@@ -56,8 +56,8 @@ Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodr
 ## Índice
 
 1. [HTML](/html)
-2. CSS
-3. JavaScript
+2. [CSS](/css)
+3. PHP
 
 ## Referências
 
@@ -66,6 +66,7 @@ Existe muito conteúdo bom para aprender some programação na internet e você 
  - [howistart.org](http://howistart.org/)
  - [learnxinyminutes.com](https://learnxinyminutes.com/)
  - [iMasters](https://imasters.com.br)
+ - [Mozilla](https://developer.mozilla.org)
 
 ## Contribuindo
 
