@@ -8,13 +8,13 @@ During my life, I've been asked about being a programmer by people around me. Th
 
 ## Área de desenvolvimento de software
 
-Veja o vídeo abaixo para saber mais o quão aquecido está o mercado para os programadores:
+Veja o vídeo abaixo para saber o quão aquecido está o mercado para os programadores:
 
 [![Code Stars](https://img.youtube.com/vi/dU1xS07N-FA/0.jpg)](https://www.youtube.com/watch?v=dU1xS07N-FA)
 
 ## Inglês
 
-Algumas das referencias que esse repositório tem são de sites em Inglês, e é muito importante que você comece a se acostumar com essa língua se você jã não está acostumado(a).
+Algumas das referencias desse repositório são de sites em Inglês, e é muito importante que você comece a se acostumar com essa língua se você já não está acostumado(a).
 
 O motivo disso é que muito conteúdo sobre programação, bons livros, código e documentação estão em Inglês.
 
@@ -46,7 +46,7 @@ Bem vindo ao clube de programadores, aqui a gente se ajuda.
 
 ## Versionamento
 
-Todo software é versionado, ou seja, tem versões como 1, 2 e 3.5.1, e um bom sistema de versionamento de software para você aprender nesse momento é o GIT.
+Todo software é versionado, ou seja, tem versões como 1, 2 e 3.5.1, e um bom sistema de versionamento de software para você aprender nesse momento é o <b>GIT</b>.
 
 Essa página está no github que é uma rede social para compartilhar projetos que usam o git. Esses projetos são chamados de repositórios.
 
