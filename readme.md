@@ -34,9 +34,18 @@ Você deve ver uma janela com a sua mensagem, no caso `Hello World`, modifique a
 
 Parabéns, você acaba de escrever o seu primeiro programa.
 
-Agora vamos mais a fundo, você pode começar vendo o [índice](#Índice) desse projeto ou fazendo um curso gratuiro em alguma escola de programação online como [Khan Academy](https://pt.khanacademy.org/computing/computer-programming)(em Portugês), [Code Academy](https://www.codecademy.com/pt) ou [Code School](https://www.codeschool.com/).
+Agora vamos mais a fundo, você pode começar vendo o [índice](#Índice) desse projeto ou fazendo um curso gratuiro em alguma [escola de programação online](#escolas-de-programação-online).
 
-Caso você queira uma coisa mais completa como um curso pago, veja o programa de nanodegree da [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000).
+## Índice
+
+Antes de começar você vai precisar de um editor de código, então você pode usar o [VSCode](https://code.visualstudio.com/).
+
+1. [HTML](/html)
+2. [CSS](/css)
+3. [Introdução à Lógica de Programação](intro)
+4. PHP (em breve)
+5. .NET (em breve)
+6. JavaScript (em breve)
 
 ## Como conseguir ajuda
 
@@ -46,11 +55,20 @@ Bem vindo ao clube de programadores, aqui a gente se ajuda.
 
 ## Versionamento
 
-Todo software é versionado, ou seja, tem versões como 1, 2 e 3.5.1, e um bom sistema de versionamento de software para você aprender nesse momento é o <b>GIT</b>.
+Todo software é versionado, ou seja, tem versões como 1, 2 e 3.5.1, e um bom sistema de versionamento de software para você aprender nesse momento é o <b>git</b>.
 
 Essa página está no github que é uma rede social para compartilhar projetos que usam o git. Esses projetos são chamados de repositórios.
 
 Para começar a aprender sobre git, faça o tutorial da página [try.github.com](https://try.github.com).
+
+## Escolas de Programação Online
+
+Cursos online são ótimos para aprender rapidamente:
+
+ - [Khan Academy](https://pt.khanacademy.org/computing/computer-programming) (em Portugês)
+ - [Code Academy](https://www.codecademy.com/pt)
+ - [Code School](https://www.codeschool.com/)
+ - [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000) (pago, mas bem completo)
 
 ## Livros
 
@@ -58,15 +76,6 @@ Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodr
 
 - [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) do David Hoover e do Adewale Oshineye
-
-## Índice
-
-1. [HTML](/html)
-2. [CSS](/css)
-3. [Introdução à Lógica de Programação](intro)
-4. PHP (em breve)
-5. .NET (em breve)
-6. JavaScript (em breve)
 
 ## Referências
 
@@ -80,5 +89,3 @@ Existe muito conteúdo bom para aprender some programação na internet e você 
 ## Contribuindo
 
 Em breve vou adicionar mais conteúdo nesse repositório para ajudar as pessoas a ter os requisitos para conseguir o primeiro emprego como programador(a), mas sinta-se à vontade para abrir um pull request.
-
-
