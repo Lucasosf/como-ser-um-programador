@@ -65,7 +65,7 @@ Para começar a aprender sobre git, faça o tutorial da página [try.github.com]
 
 Cursos online são ótimos para aprender rapidamente:
 
- - [Khan Academy](https://pt.khanacademy.org/computing/computer-programming) (em Portugês)
+ - [Khan Academy](https://pt.khanacademy.org/computing/computer-programming) (em Português)
  - [Code Academy](https://www.codecademy.com/pt)
  - [Code School](https://www.codeschool.com/)
  - [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000) (pago, mas bem completo)
