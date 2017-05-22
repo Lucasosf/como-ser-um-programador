@@ -56,9 +56,11 @@ Legal, você já sabe o que são tags, agora vamos ver o que significa cada uma 
 
 `<img>` É uma tag para colocar imagens na página, os atributos `src` (source/local do arquivo) e alt (texto alternativo caso a imagem não abra) são obrigatórios.
 
---
+## Exercício
 
-Vou adicionar mais conteúdo aqui, mas se você quiser se adiantar, existem muitos cursos e tutoriais na internet sobre esse assunto, por exemplo:
+Agora é sua vez, faça um arquivo `nome-da-sua-pagina.html` usando o [VSCode](https://code.visualstudio.com/) e use todas as tags acima. Pontos a mais se você usar uma tag que <b>não</b> está listada acima.
+
+Existem muitos cursos e tutoriais na internet sobre esse assunto, por exemplo:
 
 - [XTI](https://www.youtube.com/watch?v=nIduUA04HFo).
 - [iMasters](https://imasters.com.br/secao/front-end/html/)
