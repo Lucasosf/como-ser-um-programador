@@ -45,7 +45,7 @@ Antes de começar você vai precisar de um editor de código, então você pode 
 1. [HTML](/html)
 2. [CSS](/css)
 3. [Introdução à Lógica de Programação](intro)
-4. PHP (em breve)
+4. [PHP](https://openschoolbr.github.io/curso-php/preface.html)
 5. .NET (em breve)
 6. JavaScript (em breve)
 
@@ -83,6 +83,7 @@ Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodr
 
 Existe muito conteúdo bom para aprender some programação na internet e você não precisa necessariamente pagar por isso, por exemplo:
 
+ - [Open School Brasil](https://openschoolbr.github.io/)
  - [howistart.org](http://howistart.org/)
  - [learnxinyminutes.com](https://learnxinyminutes.com/)
  - [iMasters](https://imasters.com.br)
