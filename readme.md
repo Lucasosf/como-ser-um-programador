@@ -46,8 +46,6 @@ Antes de começar você vai precisar de um editor de código, então você pode 
 2. [CSS](/css)
 3. [Introdução à Lógica de Programação](intro)
 4. [PHP](https://openschoolbr.github.io/curso-php/preface.html)
-5. .NET (em breve)
-6. JavaScript (em breve)
 
 ## Como conseguir ajuda
 
@@ -63,11 +61,23 @@ Essa página está no github que é uma rede social para compartilhar projetos q
 
 Para começar a aprender sobre git, faça o tutorial da página [try.github.com](https://try.github.com).
 
+## Qual o mínimo necessário para conseguir um emprego?
+
+Isso depende de empresa para empresa e também do salário mínimo que você precisa receber. Ou seja, se a empresa já tiver outros programadores(as) mais exeperientes e o seu salário não for tão alto é bem capaz da empresa querer investir em você porque está difícil conseguir programador(a) hoje em dia.
+
+O mais importante é ter alguma presença na internet em termos de código (github, blog posts, projetos pessoais) e aumentar isso constantemente para mostrar para empresas que você está realmente interessado e está aprendendo bastante.
+
+Outra coisa importante é que as empresas não estão tão interessadas em pessoas apenas procurando por emprego, elas estão interessadas em pessoas interessadas na empresa em si, na sua missão e nos seus produtos. Com uma pessoa interessada na empresa, é mais fácil formar essa pessoa na tecnologia que ela usa do que encontrar alguém que seja formado(a) nessa tecnologia e ainda seja interessado(a) na empresa. Ou seja, <strong>procure pelas empresas e não pelas vagas de empregos</strong>.
+
+Então o mínino para conseguir um emprego é ter qualquer noção de programação, mas tenha em mente essas variáveis acima para conseguir um emprego.
+
 ## Escolas de Programação Online
 
 Cursos online são ótimos para aprender rapidamente:
 
+ - [Open School BR](https://openschoolbr.github.io/) (em Português)
  - [Khan Academy](https://pt.khanacademy.org/computing/computer-programming) (em Português)
+ - [Training Center](https://github.com/training-center/sobre) (em  Português)
  - [Code Academy](https://www.codecademy.com/pt)
  - [Code School](https://www.codeschool.com/)
  - [Udacity](https://br.udacity.com/course/intro-to-programming-nanodegree--nd000) (pago, mas bem completo)
