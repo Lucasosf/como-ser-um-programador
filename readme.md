@@ -69,7 +69,7 @@ O mais importante é ter alguma presença na internet em termos de código (gith
 
 Outra coisa importante é que as empresas não estão tão interessadas em pessoas apenas procurando por emprego, elas estão interessadas em pessoas interessadas na empresa em si, na sua missão e nos seus produtos. Com uma pessoa interessada na empresa, é mais fácil formar essa pessoa na tecnologia que ela usa do que encontrar alguém que seja formado(a) nessa tecnologia e ainda seja interessado(a) na empresa. Ou seja, <strong>procure pelas empresas e não pelas vagas de empregos</strong>.
 
-Então o mínino para conseguir um emprego é ter qualquer noção de programação, mas tenha em mente essas variáveis acima para conseguir um emprego.
+Então o mínino para conseguir um emprego é ter qualquer noção de programação, mas tenha em mente essas variáveis acima.
 
 ## Escolas de Programação Online
 
