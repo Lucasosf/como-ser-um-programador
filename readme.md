@@ -46,6 +46,7 @@ Antes de começar você vai precisar de um editor de código, então você pode 
 2. [CSS](/css)
 3. [Introdução à Lógica de Programação](intro)
 4. [PHP](https://openschoolbr.github.io/curso-php/preface.html)
+4. [Ruby](http://rubynostrilhos.com.br/)
 
 ## Como conseguir ajuda
 
@@ -84,7 +85,7 @@ Cursos online são ótimos para aprender rapidamente:
 
 ## Livros
 
-Você não precisa ler eles de imediado, mas coloque na sua lista. (Dica: [goodreads.com](https://goodreads.com)
+Você não precisa ler eles de imediado, mas coloque na sua lista. (dica: [goodreads.com](https://goodreads.com))
 
 - [O Programador Pragmático](http://www.saraiva.com.br/o-programador-pragmatico-3674493.html) do David Thomas e do Andrew Hunt
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) do David Hoover e do Adewale Oshineye
